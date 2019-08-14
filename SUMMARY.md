@@ -1,5 +1,6 @@
 # Summary
 
+* [트렌드 분석기 개발기](README.md)
 * [준비사항](posts/준비사항/README.md)
   * [테스트1](posts/준비사항/2019-08-10-a.md)
   * [테스트2](posts/준비사항/2019-08-10-b.md)
